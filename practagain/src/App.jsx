@@ -17,7 +17,7 @@ function App(){
 }
 export default App*/
 
-import Usestate from "./usestate";
+/*import Usestate from "./usestate";
 
 function App(){
   return(
@@ -26,4 +26,14 @@ function App(){
     </>
   )
 }
-export default Usestate
+export default Usestate*/
+
+import ColorChange from "./colorchange";
+
+function App(){
+  <>
+  <ColorChange/>
+  </>
+}
+
+export default ColorChange
